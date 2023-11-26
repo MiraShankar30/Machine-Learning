@@ -4,3 +4,4 @@ Percentiles divide the data into 100 equal parts, and the value at each percenti
 
 ## Overview:<br>
 Used air bnb new york city data set to remove the outliers using percentile based on price per night for a given apartment/home.<br>
+Suitable upper and lower limits on percentile is chosen to remove the outliers.
